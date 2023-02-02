@@ -1,4 +1,4 @@
 HALLÓ HEIMUR!
 Hello world!
 Hej verden!
-Hola Mundo!
+HOLA MUNDO!
